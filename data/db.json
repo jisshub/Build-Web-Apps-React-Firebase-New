@@ -1,0 +1,26 @@
+{"trips": [
+    {
+
+        "title": "2 Night Stay in Vehicle",
+        "price": "$22",
+        "id": 1
+    },
+    {
+
+        "title": "3 Night Stay in Vehicle",
+        "price": "$112",
+        "id": 2
+    },
+    {
+
+        "title": "4 Night Stay in Vehicle",
+        "price": "$232",
+        "id": 3
+    },
+    {
+
+        "title": "5 Night Stay in Vehicle",
+        "price": "$199",
+        "id": 4
+    }
+]}
