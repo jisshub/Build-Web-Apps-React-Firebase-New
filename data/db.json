@@ -3,24 +3,28 @@
 
         "title": "2 Night Stay in Vehicle",
         "price": "$22",
-        "id": 1
+        "id": 1,
+        "loc": "india"
     },
     {
 
         "title": "3 Night Stay in Vehicle",
         "price": "$112",
-        "id": 2
+        "id": 2,
+        "loc":"india"
     },
     {
 
         "title": "4 Night Stay in Vehicle",
         "price": "$232",
-        "id": 3
+        "id": 3,
+        "loc": "russia"
     },
     {
 
         "title": "5 Night Stay in Vehicle",
         "price": "$199",
-        "id": 4
+        "id": 4,
+        "loc": "germany"
     }
 ]}
